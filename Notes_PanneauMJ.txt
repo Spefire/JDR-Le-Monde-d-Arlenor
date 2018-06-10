@@ -1,4 +1,4 @@
-La création de perso :
+﻿La création de perso :
 - Caractéristiques allant de 1 à 5
 - Compétences allant de 0 à 10
 - 9 points à répartir dans les Caractéristiques
@@ -103,23 +103,6 @@ Faible Caract / Fort Comp --------> (1 à 6) + 10 + 4 = (15 à 21)
 Fort Caract / Faible Comp --------> (5 à 30) - 4 = (1 à 26)
 Faible Caract / Faible Comp ------> (1 à 6) - 4 = (-3 à 2)
 
-Tableaux des Armes / Armures
-
 ---------------------------------------
 
-BUFF :
-- Notion de dégats temporaires supprimée
-- Dégats de chutes devenus fixes (1 point par mètre de chute, ignorant la Défense)
-- Suppression du palier double au niveau 6 des compétences
-
-UPDATE (Système de combat) :
-- Un tour réprésente : UN déplacement + DES actions rapides (ex: crier un ordre) + UNE action longue (ex : porter une attaque)
-- Calcul de l'Attaque inchangée
-- La Défense n'est plus une valeur fixe, mais un calcul en opposition à l'Attaque
-
-NERF :
-- Si dégats critiques non soignés, dégâts critiques rajoutés (au lieu de létaux)
-- Passage de 40 points dans les compétences à la création (au lieu de 50)
-- Chaque compétence ne peut avoir qu'une spécialité (au lieu de plusieurs)
-
-
+Tableaux des Armes / Armures
