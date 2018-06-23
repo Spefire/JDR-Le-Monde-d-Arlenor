@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mlt LC_NUMERIC="fr_FR" version="6.9.0" title="Shotcut version 18.06.02" producer="main bin">
   <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30" frame_rate_den="1" colorspace="709"/>
-  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:01:32,867">
-    <property name="length">00:01:32,900</property>
-    <property name="eof">pause</property>
-    <property name="resource">C:/Users/Nicholas/Videos/2018-06-18 22-04-25.mp4</property>
-    <property name="audio_index">1</property>
-    <property name="video_index">0</property>
-    <property name="mute_on_pause">0</property>
-    <property name="mlt_service">avformat-novalidate</property>
-    <property name="seekable">1</property>
-    <property name="aspect_ratio">1</property>
-    <property name="shotcut:hash">0f09a40ce5c50e9a271df96a0392f853</property>
-    <property name="ignore_points">0</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-  </producer>
-  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:01:17,400">
-    <property name="length">00:01:17,433</property>
-    <property name="eof">pause</property>
-    <property name="resource">Enregistrements/Partie_Definition.wav</property>
-    <property name="audio_index">0</property>
-    <property name="video_index">-1</property>
-    <property name="mute_on_pause">0</property>
-    <property name="mlt_service">avformat-novalidate</property>
-    <property name="seekable">1</property>
-    <property name="shotcut:hash">f2c27b292a49f1d599cd5f0f61eaf0b1</property>
-    <property name="ignore_points">0</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-  </producer>
   <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="00:03:29,167">
     <property name="length">00:03:29,200</property>
     <property name="eof">pause</property>
@@ -44,15 +15,44 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
   </producer>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:05:57,833">
+    <property name="length">00:05:57,867</property>
+    <property name="eof">pause</property>
+    <property name="resource">Donnees/2018-06-20 22-49-00.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">108476cf3c72368fc6a3f041b4cbc2d6</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:04:59,133">
+    <property name="length">00:04:59,167</property>
+    <property name="eof">pause</property>
+    <property name="resource">Enregistrements/Partie_IdentiteV2.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">98466c346d94d4f26ee9e0650eddcd16</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
   <playlist id="main bin" title="Shotcut version 18.06.02">
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="xml_retain">1</property>
-    <entry producer="producer0" in="00:00:00,000" out="00:01:32,867"/>
-    <entry producer="producer1" in="00:00:00,000" out="00:01:17,400"/>
     <entry producer="producer2" in="00:00:00,000" out="00:03:29,167"/>
+    <entry producer="producer0" in="00:00:00,000" out="00:05:57,833"/>
+    <entry producer="producer1" in="00:00:00,000" out="00:04:59,133"/>
   </playlist>
-  <producer id="black" in="00:00:00,000" out="00:01:21,133">
-    <property name="length">00:01:21,167</property>
+  <producer id="black" in="00:00:00,000" out="00:05:09,267">
+    <property name="length">00:05:09,300</property>
     <property name="eof">pause</property>
     <property name="resource">black</property>
     <property name="aspect_ratio">1</property>
@@ -60,26 +60,26 @@
     <property name="set.test_audio">0</property>
   </producer>
   <playlist id="background">
-    <entry producer="black" in="00:00:00,000" out="00:01:21,133"/>
+    <entry producer="black" in="00:00:00,000" out="00:05:09,267"/>
   </playlist>
-  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:01:32,867">
-    <property name="length">00:01:32,900</property>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:05:57,833">
+    <property name="length">00:05:57,867</property>
     <property name="eof">pause</property>
-    <property name="resource">C:/Users/Nicholas/Videos/2018-06-18 22-04-25.mp4</property>
+    <property name="resource">Donnees/2018-06-20 22-49-00.mp4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="aspect_ratio">1</property>
-    <property name="shotcut:hash">0f09a40ce5c50e9a271df96a0392f853</property>
+    <property name="shotcut:hash">108476cf3c72368fc6a3f041b4cbc2d6</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">2018-06-18 22-04-25.mp4</property>
-    <property name="shotcut:detail">C:/Users/Nicholas/Videos/2018-06-18 22-04-25.mp4</property>
+    <property name="shotcut:caption">2018-06-20 22-49-00.mp4</property>
+    <property name="shotcut:detail">Donnees/2018-06-20 22-49-00.mp4</property>
     <property name="shotcut:comment"></property>
-    <filter id="filter0" in="00:00:03,933" out="00:01:25,067">
+    <filter id="filter0" in="00:00:48,567" out="00:05:57,833">
       <property name="start">1</property>
       <property name="level">0=0;59=1</property>
       <property name="mlt_service">brightness</property>
@@ -87,9 +87,9 @@
       <property name="alpha">1</property>
       <property name="shotcut:animIn">60</property>
     </filter>
-    <filter id="filter1" in="00:00:03,933" out="00:01:25,067">
+    <filter id="filter1" in="00:00:48,567" out="00:05:57,833">
       <property name="start">1</property>
-      <property name="level">2375=1;2434=0</property>
+      <property name="level">9219=1; 9278=0</property>
       <property name="mlt_service">brightness</property>
       <property name="shotcut:filter">fadeOutBrightness</property>
       <property name="alpha">1</property>
@@ -100,37 +100,33 @@
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
     <property name="shotcut:lock">0</property>
-    <entry producer="producer3" in="00:00:03,933" out="00:01:25,067"/>
+    <entry producer="producer3" in="00:00:48,567" out="00:05:57,833"/>
   </playlist>
-  <producer id="producer5" title="Anonymous Submission" in="00:00:00,000" out="00:01:17,400">
-    <property name="length">00:01:17,433</property>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00,000" out="00:04:59,133">
+    <property name="length">00:04:59,167</property>
     <property name="eof">pause</property>
-    <property name="resource">Enregistrements/Partie_Definition.wav</property>
+    <property name="resource">Enregistrements/Partie_IdentiteV2.wav</property>
     <property name="audio_index">0</property>
     <property name="video_index">-1</property>
     <property name="mute_on_pause">0</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
-    <property name="shotcut:hash">f2c27b292a49f1d599cd5f0f61eaf0b1</property>
+    <property name="shotcut:hash">98466c346d94d4f26ee9e0650eddcd16</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
+    <property name="shotcut:caption">Partie_IdentiteV2.wav</property>
+    <property name="shotcut:detail">Enregistrements/Partie_IdentiteV2.wav</property>
+    <property name="shotcut:comment"></property>
+    <property name="shotcut:skipConvert">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">Partie_Definition.wav</property>
-    <property name="shotcut:detail">Enregistrements/Partie_Definition.wav</property>
-    <filter id="filter2" out="00:01:17,400">
-      <property name="window">75</property>
-      <property name="max_gain">20dB</property>
-      <property name="level">10</property>
-      <property name="mlt_service">volume</property>
-    </filter>
   </producer>
   <playlist id="playlist1">
     <property name="shotcut:audio">1</property>
     <property name="shotcut:name">A1</property>
-    <blank length="00:00:01,767"/>
-    <entry producer="producer5" in="00:00:00,000" out="00:01:17,400"/>
+    <blank length="00:00:05,967"/>
+    <entry producer="producer4" in="00:00:00,000" out="00:04:59,133"/>
   </playlist>
-  <producer id="producer4" title="Anonymous Submission" in="00:00:00,000" out="00:03:29,167">
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00,000" out="00:03:29,167">
     <property name="length">00:03:29,200</property>
     <property name="eof">pause</property>
     <property name="resource">Musique.mp3</property>
@@ -145,6 +141,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:caption">Musique.mp3</property>
     <property name="shotcut:detail">Musique.mp3</property>
+    <property name="shotcut:comment"></property>
     <filter id="filter3" in="00:00:42,233" out="00:00:52,200">
       <property name="window">75</property>
       <property name="max_gain">20dB</property>
@@ -175,6 +172,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:caption">Musique.mp3</property>
     <property name="shotcut:detail">Musique.mp3</property>
+    <property name="shotcut:comment"></property>
     <filter id="filter5" in="00:01:54,067" out="00:02:03,367">
       <property name="window">75</property>
       <property name="max_gain">20dB</property>
@@ -193,11 +191,11 @@
   <playlist id="playlist2">
     <property name="shotcut:audio">1</property>
     <property name="shotcut:name">A2</property>
-    <entry producer="producer4" in="00:00:42,233" out="00:00:52,200"/>
-    <blank length="00:01:01,833"/>
+    <entry producer="producer5" in="00:00:42,233" out="00:00:52,200"/>
+    <blank length="00:04:49,967"/>
     <entry producer="producer6" in="00:01:54,067" out="00:02:03,367"/>
   </playlist>
-  <tractor id="tractor1" title="Shotcut version 18.06.02" global_feed="1">
+  <tractor id="tractor1" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:05:09,267">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:scaleFactor">0,663034</property>
