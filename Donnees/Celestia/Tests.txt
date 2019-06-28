@@ -1,0 +1,47 @@
+---------- LAETITIA ----------
+
+Feu : 4
+Air : 4
+Terre : 9
+Eau : 5
+
+Alliance Feu-Eau : 1 (Aucune dominance)
+Alliance Air-Terre : 5 (Dominance de la Terre)
+
+Air / Air / Foudre
+
+---------- AUDREY ----------
+
+Feu : 6
+Air : 7
+Terre : 4
+Eau : 2
+
+Alliance Feu-Eau : 4 (Dominance du Feu)
+Alliance Air-Terre : 3 (Dominance de l'Air)
+
+Air / Vie / Terre
+
+---------- SPEFIRE ----------
+
+Feu : 11
+Air : 4
+Terre : 3
+Eau : 2
+
+Alliance Feu-Eau : 9 (Dominance du Feu)
+Alliance Air-Terre : 1 (Aucune dominance)
+
+(Feu ou Foudre) / Feu / Feu
+
+---------- TIESSELUNE ----------
+
+(Foudre ou Magma) / / 
+
+---------- ALDWYCH ----------
+
+(Air ou Glace) / / 
+
+---------- SYLVAIN ----------
+
+(Eau ou Glace) / / 
