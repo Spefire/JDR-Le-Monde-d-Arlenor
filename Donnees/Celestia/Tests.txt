@@ -34,14 +34,79 @@ Alliance Air-Terre : 1 (Aucune dominance)
 
 (Feu ou Foudre) / Feu / Feu
 
+---------- STORMOZ ----------
+
+Feu : 7
+Air : 5
+Terre : 3
+Eau : 7
+
+Alliance Feu-Eau : 0 (Aucune dominance)
+Alliance Air-Terre : 2 (Domaine de l'Air)
+
+(Feu ou Eau) / Feu / Glace
+
 ---------- TIESSELUNE ----------
 
 (Foudre ou Magma) / / 
 
+---------- LUCAS ----------
+
+Feu : 5
+Air : 10
+Terre : 1
+Eau : 5
+
+Alliance Feu-Eau : 0 (Dominance de l'Eau)
+Alliance Air-Terre : 9 (Domaine de l'Air)
+
+(Air ou Glace) / Glace / Air
+
 ---------- ALDWYCH ----------
 
-(Air ou Glace) / / 
+Feu : 0
+Air : 11
+Terre : 4
+Eau : 4
+
+Alliance Feu-Eau : 4 (Dominance de l'Eau)
+Alliance Air-Terre : 7 (Domaine de l'Air)
+
+(Air ou Glace) / Air / Glace
 
 ---------- SYLVAIN ----------
 
-(Eau ou Glace) / / 
+Feu : 4
+Air : 11
+Terre : 1
+Eau : 4
+
+Alliance Feu-Eau : 0 (Aucune dominance)
+Alliance Air-Terre : 10 (Domaine de l'Air)
+
+(Eau ou Glace) / Eau / Air
+
+---------- AMICIUS ----------
+
+Feu : 6
+Air : 6
+Terre : 7
+Eau : 3
+
+Alliance Feu-Eau : 3 (Dominance du Feu)
+Alliance Air-Terre : 1 (Aucune dominance)
+
+??? / Vie / Feu
+
+---------- LALUNEAULAPIN ----------
+
+Feu : 4
+Air : 6
+Terre : 7
+Eau : 6
+
+Alliance Feu-Eau : 2 (Dominance de l'Eau)
+Alliance Air-Terre : 1 (Domaine de l'Air)
+
+??? / Air / Glace
+
